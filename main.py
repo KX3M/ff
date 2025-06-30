@@ -7,7 +7,7 @@ from aiogram.client.default import DefaultBotProperties
 from datetime import datetime, timedelta
 import aiohttp
 
-API_TOKEN = "7829579880:AAHIGy_pUDTE6jQdUOXHSnFakz9SJeOcuUg"
+API_TOKEN = "7829579880:AAHkQDM3rVLEX3XopISj4T0C5K2_N5q-Obs"
 ALLOWED_GROUP_ID = -1002602441954
 VIP_USER_ID = 7387793694
 
